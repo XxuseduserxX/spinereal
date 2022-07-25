@@ -1,0 +1,34 @@
+.title {
+  font-size: 100px;
+  background-color: yellow;
+  color: red;
+  text-align: center;
+  font-family: 'Dokdo', cursive;
+}
+.bt {
+  float: left;
+  background: url('bt.png') no-repeat;
+  border: none;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+.body {
+  background-color: whitesmoke;
+  background-image: url('bg.jpg');
+  text-align: center;
+  background-repeat: repeat;
+}
+.img {
+  float: right;
+}
+#label-container {
+  float: left;
+  color: black;
+  background-color: whitesmoke;
+  font-size: 50px;
+}
+.not {
+  color: red;
+  background-color: rgb(0, 47, 255);
+}
